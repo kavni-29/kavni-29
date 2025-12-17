@@ -2,7 +2,7 @@
 ✨ B.Tech student at NSUT specializing in Artificial Intelligence<br>🍀 I enjoy systems programming and building tools that solve real problems<br>✨ Passionate about designing clean visuals on Canva<br>🍀 Fond of journalling to reflect and spark new ideas<br>✨Always learning, creating, and chasing clarity in both code and life<br><br>
 
 
-##  Socials:
+# Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kavni29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kavni-ranpara-b342a9343/) 
 
 # Tech Stack:
