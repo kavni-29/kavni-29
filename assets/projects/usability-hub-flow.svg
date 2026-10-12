@@ -8,9 +8,9 @@
   <rect x="1" y="1" width="1198" height="278" rx="22" fill="url(#paper)"/>
   <path d="M191 142C369 95 463 190 600 142S830 93 1007 142" fill="none" stroke="#806784" stroke-width="2" stroke-dasharray="3 10" opacity=".38"/>
   <g stroke="#806784" stroke-width="2">
-    <rect x="102" y="66" width="250" height="148" rx="20" fill="#EEE7E8"/>
-    <rect x="475" y="66" width="250" height="148" rx="20" fill="#E5ECE7"/>
-    <rect x="848" y="66" width="250" height="148" rx="20" fill="#F0E5DF"/>
+    <rect x="102" y="66" width="250" height="148" rx="20" fill="#C99AA9" fill-opacity=".22"/>
+    <rect x="475" y="66" width="250" height="148" rx="20" fill="#91B7AE" fill-opacity=".22"/>
+    <rect x="848" y="66" width="250" height="148" rx="20" fill="#B98E79" fill-opacity=".20"/>
   </g>
   <g fill="none" stroke-linecap="round" stroke-linejoin="round">
     <g stroke="#806784" stroke-width="5">

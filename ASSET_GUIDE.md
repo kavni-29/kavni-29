@@ -1,17 +1,28 @@
 # Profile README assets
 
-## Layout
+## Files
 
-- `assets/hero/botanical-loop.gif` is the small animated hero illustration.
-- `assets/hero/botanical-static.svg` is its lightweight editable still version and can replace the GIF in the README when a static image is preferred.
-- `assets/projects/` contains explanatory diagrams for the two project cards. They are diagrams, not screenshots of the applications.
+- `assets/hero/botanical-loop.gif` is the optional, restrained hero animation used by the README.
+- `assets/hero/botanical-static.svg` is the editable still version; the README links to it directly beneath the GIF.
+- `assets/projects/` contains explanatory SVG diagrams for the project cards. They are diagrams, not product screenshots.
+- `scripts/profile_assets.py` regenerates the animated hero and checks the README's local artwork references, SVG syntax and palette, and GIF dimensions, frame count, and file size.
 
-## Editing the profile
+The palette is defined at the top of `scripts/profile_assets.py`: ivory `#F6F3EC`, sand `#E8E2D9`, plum `#806784`, dusty rose `#C99AA9`, sage `#91B7AE`, terracotta `#B98E79`, and charcoal `#292725`. When adjusting the palette, update the colours in the static SVG and project diagrams too; run the checker to catch colours outside the palette.
 
-The README is written in Markdown with small HTML tables for its editorial layout. To add a project, copy one project cell in the “On the worktable” table, update its title, link, short evidence-based description, technologies, and diagram, then keep the two cells balanced. Only label work as ongoing or complete when the repository supports that status. Update technology names to match actual project use.
+## Regenerate and check
 
-Use local relative paths for artwork. Keep descriptive alt text; label explanatory artwork as diagrams. Keep contact links to GitHub and LinkedIn. Do not add statistics widgets unless there is a clear benefit and a dependable fallback.
+Python 3 and Pillow are needed only to regenerate the GIF. They are not needed to view the GitHub profile. From the repository root:
 
-## Lightweight assets
+```powershell
+python -m pip install Pillow
+python scripts/profile_assets.py build
+python scripts/profile_assets.py check
+```
 
-All essential artwork is stored in this repository. The SVGs are editable source files; the GIF is a self-contained animation. No build step, JavaScript, custom CSS, or external image service is required. GitHub may render SVG differently from a full browser, so preserve a useful first frame and readable static content.
+Or run both actions together with `python scripts/profile_assets.py all`. The generator uses deterministic geometry and a fixed frame sequence, and writes only `assets/hero/botanical-loop.gif`. The SVG artwork remains directly editable without a build step. No server, API key, framework, JavaScript, or external image service is involved.
+
+## Update project cards
+
+Edit the relevant cell in the “On the worktable” table in `README.md`. Keep each project description concise and evidence-based, update its technology list to match the repository, and avoid status labels unless the project's state is verified. Edit the corresponding SVG in `assets/projects/` when its process diagram needs to change. Preserve descriptive alt text and use the seven palette colours above.
+
+The cards are simple HTML tables for GitHub's README renderer. Artwork has text alternatives, and the animated hero is decorative; a still illustration is linked as an alternative. No visitor needs to run the asset script.

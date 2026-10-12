@@ -10,6 +10,7 @@
       </td>
       <td width="42%" align="center" valign="middle">
         <img src="assets/hero/botanical-loop.gif" alt="A softly swaying botanical branch in a warm, journal-like illustration" width="360">
+        <p><sub><a href="assets/hero/botanical-static.svg">View the still illustration</a></sub></p>
       </td>
     </tr>
   </table>
