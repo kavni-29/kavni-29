@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 540" role="img" aria-labelledby="title desc">
+  <title id="title">Kavni Ranpara — Developer Journal, Volume One</title>
+  <desc id="desc">A warm paper journal cover with a serif name, the line “Tending ideas until they grow into working software,” and a botanical branch inside a soft sage and rose circle.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6F3EC"/>
+      <stop offset=".56" stop-color="#F6F3EC"/>
+      <stop offset="1" stop-color="#E8E2D9"/>
+    </linearGradient>
+    <radialGradient id="wash" cx="78%" cy="45%" r="48%">
+      <stop offset="0" stop-color="#C99AA9" stop-opacity=".23"/>
+      <stop offset=".62" stop-color="#B98E79" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#F6F3EC" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grain" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="4" r=".8" fill="#806784" opacity=".10"/>
+      <circle cx="15" cy="14" r=".6" fill="#B98E79" opacity=".10"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1200" height="540" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="540" fill="url(#paper)"/>
+    <rect width="1200" height="540" fill="url(#wash)"/>
+    <rect width="1200" height="540" fill="url(#grain)"/>
+
+    <g fill="#C99AA9" opacity=".66">
+      <path d="M85 91c8-17 15-18 21-4-5 11-12 17-21 4Z"/>
+      <path d="M633 92c7-15 13-16 18-4-4 10-10 15-18 4Z"/>
+      <path d="M698 427c7-15 13-16 18-4-4 10-10 15-18 4Z"/>
+    </g>
+    <g fill="#91B7AE" opacity=".7">
+      <path d="M1113 115c8-17 15-18 21-4-5 11-12 17-21 4Z"/>
+      <path d="M559 451c7-15 13-16 18-4-4 10-10 15-18 4Z"/>
+    </g>
+
+    <rect x="78" y="75" width="294" height="32" rx="16" fill="#806784" opacity=".11"/>
+    <text x="96" y="97" fill="#806784" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3.2">DEVELOPER JOURNAL · VOL. I</text>
+
+    <text x="77" y="219" fill="#292725" font-family="Georgia, 'Times New Roman', serif" font-size="92" font-weight="400" letter-spacing="-3">Kavni</text>
+    <text x="340" y="219" fill="#B98E79" font-family="Georgia, 'Times New Roman', serif" font-size="92" font-style="italic" font-weight="400" letter-spacing="-3">Ranpara</text>
+    <path d="M80 239h250" stroke="#806784" stroke-width="4"/>
+
+    <text x="80" y="290" fill="#806784" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-style="italic">Tending ideas until they grow into working software.</text>
+    <text x="80" y="343" fill="#292725" font-family="Arial, sans-serif" font-size="18">B.Tech in Computer Science &amp; Engineering, specialising in Artificial Intelligence</text>
+    <text x="80" y="373" fill="#292725" font-family="Arial, sans-serif" font-size="18">at Netaji Subhas University of Technology (NSUT).</text>
+    <text x="80" y="403" fill="#292725" font-family="Arial, sans-serif" font-size="18">Practical tools, intelligent systems, and notes on everything in between.</text>
+
+    <g font-family="Arial, sans-serif" font-size="15" font-weight="700">
+      <rect x="80" y="438" width="130" height="43" rx="22" fill="#292725"/>
+      <text x="105" y="465" fill="#F6F3EC">GitHub ↗</text>
+      <rect x="222" y="438" width="145" height="43" rx="22" fill="#806784"/>
+      <text x="247" y="465" fill="#F6F3EC">LinkedIn ↗</text>
+    </g>
+
+    <circle cx="923" cy="282" r="207" fill="#91B7AE" opacity=".20"/>
+    <circle cx="963" cy="270" r="158" fill="#C99AA9" opacity=".18"/>
+    <circle cx="923" cy="282" r="207" fill="none" stroke="#B98E79" stroke-opacity=".34" stroke-width="1.5"/>
+    <circle cx="923" cy="282" r="164" fill="none" stroke="#806784" stroke-opacity=".18" stroke-width="1" stroke-dasharray="2 8"/>
+
+    <g fill="none" stroke="#292725" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M908 447C919 390 906 344 932 296C953 257 968 220 1004 158"/>
+      <path d="M918 389C876 386 849 364 839 330C876 324 908 345 918 389Z" fill="#91B7AE" fill-opacity=".70"/>
+      <path d="M920 372L839 330" stroke-width="1.5"/>
+      <path d="M925 339C893 311 889 278 909 250C941 270 947 306 925 339Z" fill="#C99AA9" fill-opacity=".67"/>
+      <path d="M924 332L909 250" stroke-width="1.5"/>
+      <path d="M941 292C979 294 1007 274 1018 241C982 231 950 251 941 292Z" fill="#806784" fill-opacity=".69"/>
+      <path d="M951 284L1018 241" stroke-width="1.5"/>
+      <path d="M960 254C930 224 929 190 950 164C981 185 985 220 960 254Z" fill="#91B7AE" fill-opacity=".75"/>
+      <path d="M958 246L950 164" stroke-width="1.5"/>
+      <path d="M978 220C1014 218 1038 197 1043 165C1008 158 981 180 978 220Z" fill="#B98E79" fill-opacity=".73"/>
+      <path d="M988 211L1043 165" stroke-width="1.5"/>
+      <path d="M995 178C973 151 977 123 996 101C1021 124 1019 153 995 178Z" fill="#C99AA9" fill-opacity=".74"/>
+      <path d="M994 170L996 101" stroke-width="1.5"/>
+    </g>
+    <circle cx="996" cy="98" r="8" fill="#C99AA9" stroke="#292725" stroke-width="2"/>
+    <circle cx="849" cy="203" r="4" fill="#806784"/>
+    <circle cx="1059" cy="349" r="4" fill="#B98E79"/>
+    <text x="790" y="220" fill="#806784" font-family="Georgia, serif" font-size="14" font-style="italic">fig. i — curiosity</text>
+    <text x="1005" y="387" fill="#806784" font-family="Georgia, serif" font-size="14" font-style="italic">growth, iterative</text>
+    <text x="858" y="481" fill="#806784" font-family="Georgia, serif" font-size="11" letter-spacing="1.4">SPECIMEN NO. 29 · KAVNI-29</text>
+  </g>
+</svg>

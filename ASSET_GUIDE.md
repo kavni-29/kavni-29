@@ -2,8 +2,9 @@
 
 ## Files
 
-- `assets/hero/botanical-loop.gif` is the optional, restrained hero animation used by the README.
-- `assets/hero/botanical-static.svg` is the editable still version; the README links to it directly beneath the GIF.
+- `assets/hero/journal-cover.svg` is the warm-paper editorial masthead shown at the top of the README. Its text and botanical illustration are editable SVG elements.
+- `assets/hero/botanical-loop.gif` is the optional, restrained hero animation linked from the README.
+- `assets/hero/botanical-static.svg` is the editable still version of that animation.
 - `assets/projects/` contains explanatory SVG diagrams for the project cards. They are diagrams, not product screenshots.
 - `scripts/profile_assets.py` regenerates the animated hero and checks the README's local artwork references, SVG syntax and palette, and GIF dimensions, frame count, and file size.
 
@@ -25,4 +26,4 @@ Or run both actions together with `python scripts/profile_assets.py all`. The ge
 
 Edit the relevant cell in the “Project exhibits” table in `README.md`. Keep each project description concise and evidence-based, update its technology list to match the repository, and avoid status labels unless the project's state is verified. Edit the corresponding SVG in `assets/projects/` when its process diagram needs to change. Preserve descriptive alt text and use the seven palette colours above.
 
-The cards are simple HTML tables for GitHub's README renderer. Artwork has text alternatives, and the animated hero is decorative; a still illustration is linked as an alternative. No visitor needs to run the asset script.
+The project and skills panels are simple HTML tables for GitHub's README renderer. The editorial masthead has descriptive alt text. The animation is optional and the still illustration is available separately. No visitor needs to run the asset script.

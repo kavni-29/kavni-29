@@ -1,21 +1,8 @@
-<p align="center"><sub>DEVELOPER JOURNAL · VOL. I</sub></p>
+<p align="center">
+  <img src="assets/hero/journal-cover.svg" alt="Kavni Ranpara — Developer Journal, Volume One. Tending ideas until they grow into working software. A warm paper cover with a botanical illustration." width="100%">
+</p>
 
-<table>
-  <tr>
-    <td width="58%" valign="middle">
-      <h1>Kavni <em>Ranpara</em></h1>
-      <p><em>Tending ideas until they grow into working software.</em></p>
-      <p>B.Tech in Computer Science &amp; Engineering, specialising in Artificial Intelligence at Netaji Subhas University of Technology (NSUT). I build practical tools, explore how intelligent systems learn, and keep notes on everything in between.</p>
-      <p><a href="https://github.com/kavni-29">GitHub ↗</a> &nbsp; <a href="https://www.linkedin.com/in/kavni-ranpara-b342a9343/">LinkedIn ↗</a></p>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <img src="assets/hero/botanical-loop.gif" alt="A gently animated botanical branch in a warm ivory, sage, rose, and plum illustration" width="360">
-      <p><sub><a href="assets/hero/botanical-static.svg">View the still illustration</a></sub></p>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><sub>LEARNING WITH CURIOSITY · MAKING THINGS WITH CARE</sub></p>
+<p align="center"><a href="https://github.com/kavni-29">GitHub ↗</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/kavni-ranpara-b342a9343/">LinkedIn ↗</a> &nbsp; · &nbsp; <a href="assets/hero/botanical-loop.gif">Animated botanical study</a></p>
 
 ---
 
