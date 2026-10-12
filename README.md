@@ -1,19 +1,31 @@
-# About Me:
-● B.Tech student at NSUT specializing in Artificial Intelligence<br>
-● I enjoy systems programming and building tools that solve real problems<br>
-● Passionate about designing clean visuals on Canva<br>
-● Fond of journalling to reflect and spark new ideas<br>
-● Always learning, creating, and chasing clarity in both code and life<br><br>
+<p align="center">
+  <img src="assets/profile-header.svg" alt="Kavni — Artificial Intelligence, systems, and small ideas" width="100%">
+</p>
 
+<p align="center">
+  B.Tech student at <a href="https://nsut.ac.in/">NSUT</a>, specialising in Artificial Intelligence.
+</p>
 
-# Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kavni29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kavni-ranpara-b342a9343/) 
+<p align="center">
+  I like exploring how systems work, building useful tools, and making information feel clear. I’m learning as I go, and I enjoy the thoughtful details along the way.
+</p>
 
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kavni-29&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kavni-29&theme=solarized-light&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kavni-29&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/kavni-29">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kavni-ranpara-b342a9343/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://instagram.com/kavni29">Instagram</a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### What I’m drawn to
+
+Systems programming, practical problem-solving, and tools that make everyday tasks a little easier.
+
+### A little beyond code
+
+I enjoy designing clean visuals on Canva and journalling to reflect and make room for new ideas.
+
+<p align="center"><sub>Learning with curiosity; making things with care. &nbsp;✳</sub></p>

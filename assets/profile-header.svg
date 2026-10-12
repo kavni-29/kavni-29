@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Kavni — a thoughtful corner of the internet</title>
+  <desc id="desc">A warm ivory editorial banner with muted plum and sage botanical details.</desc>
+  <rect width="1200" height="300" rx="24" fill="#F6F3EC"/>
+  <path d="M0 245 C220 190 350 290 560 236 S930 190 1200 238 V300 H0Z" fill="#E8E2D9" opacity=".62"/>
+  <g fill="none" stroke="#91B7AE" stroke-width="2" opacity=".78">
+    <path d="M1010 260 C1030 205 1053 156 1107 95"/>
+    <path d="M1043 194 C1004 192 984 173 981 146 C1014 147 1037 163 1043 194Z" fill="#91B7AE" fill-opacity=".26"/>
+    <path d="M1065 157 C1061 123 1076 100 1105 88 C1112 119 1097 143 1065 157Z" fill="#91B7AE" fill-opacity=".26"/>
+    <path d="M1027 225 C1061 229 1085 216 1097 190 C1067 184 1041 198 1027 225Z" fill="#91B7AE" fill-opacity=".26"/>
+  </g>
+  <g fill="#C99AA9" opacity=".78">
+    <circle cx="111" cy="69" r="3"/><circle cx="140" cy="92" r="2"/><circle cx="169" cy="60" r="2"/>
+  </g>
+  <text x="90" y="152" fill="#292725" font-family="Georgia, 'Times New Roman', serif" font-size="72">Kavni</text>
+  <path d="M94 177 H244" stroke="#806784" stroke-width="3"/>
+  <text x="94" y="218" fill="#5A534F" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="2">ARTIFICIAL INTELLIGENCE · SYSTEMS · SMALL IDEAS</text>
+</svg>
+
