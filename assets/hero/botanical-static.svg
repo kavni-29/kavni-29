@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">A small botanical study</title>
+  <desc id="desc">A sage branch with plum and rose buds, resting over warm ivory and soft-sand organic shapes.</desc>
+  <defs>
+    <pattern id="paper" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="3" r=".65" fill="#806784" opacity=".12"/>
+      <circle cx="13" cy="15" r=".55" fill="#B98E79" opacity=".10"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="718" height="438" rx="24" fill="#F6F3EC" stroke="#E8E2D9" stroke-width="2"/>
+  <rect x="1" y="1" width="718" height="438" rx="24" fill="url(#paper)"/>
+  <path d="M42 328C151 253 226 347 338 302C448 258 510 294 680 206V439H42Z" fill="#E8E2D9" opacity=".70"/>
+  <path d="M58 352C179 297 263 381 376 336C493 290 573 338 683 270" fill="none" stroke="#C99AA9" stroke-width="2" opacity=".52"/>
+  <circle cx="530" cy="168" r="124" fill="#91B7AE" opacity=".16"/>
+  <circle cx="568" cy="146" r="78" fill="#C99AA9" opacity=".13"/>
+  <g fill="none" stroke="#806784" stroke-linecap="round" stroke-width="3" opacity=".86" transform="translate(112 122)">
+    <path d="M0-17V-43M0 17V43M-17 0H-43M17 0H43M-12-12L-30-30M12 12L30 30M12-12L30-30M-12 12L-30 30"/>
+    <circle r="4" fill="#C99AA9" stroke="none"/>
+  </g>
+  <g fill="none" stroke="#806784" stroke-linecap="round" stroke-width="3">
+    <path d="M398 380C452 318 470 251 514 203C544 170 589 137 638 67"/>
+    <path d="M468 293C425 293 393 272 379 238C419 230 453 250 468 293Z" fill="#91B7AE" fill-opacity=".70"/>
+    <path d="M500 237C480 198 489 162 519 135C549 169 544 207 500 237Z" fill="#C99AA9" fill-opacity=".66"/>
+    <path d="M535 183C573 183 601 161 610 126C574 118 543 141 535 183Z" fill="#91B7AE" fill-opacity=".70"/>
+    <path d="M567 144C546 108 554 73 582 46C612 78 609 116 567 144Z" fill="#B98E79" fill-opacity=".72"/>
+    <path d="M497 244L379 238M510 219L519 135M540 175L610 126M573 132L582 46" stroke="#806784" stroke-width="1.5" opacity=".8"/>
+    <path d="M514 203C555 207 582 190 595 159" stroke="#91B7AE" stroke-width="1.5"/>
+  </g>
+  <g fill="#806784">
+    <circle cx="647" cy="68" r="5"/><circle cx="632" cy="94" r="2.5" fill="#C99AA9"/>
+    <circle cx="450" cy="112" r="2" fill="#B98E79"/><circle cx="658" cy="209" r="2" fill="#C99AA9"/>
+  </g>
+</svg>
