@@ -23,6 +23,6 @@ Or run both actions together with `python scripts/profile_assets.py all`. The ge
 
 ## Update project cards
 
-Edit the relevant cell in the “On the worktable” table in `README.md`. Keep each project description concise and evidence-based, update its technology list to match the repository, and avoid status labels unless the project's state is verified. Edit the corresponding SVG in `assets/projects/` when its process diagram needs to change. Preserve descriptive alt text and use the seven palette colours above.
+Edit the relevant cell in the “Project exhibits” table in `README.md`. Keep each project description concise and evidence-based, update its technology list to match the repository, and avoid status labels unless the project's state is verified. Edit the corresponding SVG in `assets/projects/` when its process diagram needs to change. Preserve descriptive alt text and use the seven palette colours above.
 
 The cards are simple HTML tables for GitHub's README renderer. Artwork has text alternatives, and the animated hero is decorative; a still illustration is linked as an alternative. No visitor needs to run the asset script.
