@@ -1,31 +1,40 @@
-<p align="center">
-  <img src="assets/profile-header.svg" alt="Kavni — Artificial Intelligence, systems, and small ideas" width="100%">
+<p align="right">
+  <img src="assets/profile-header.svg" alt="Botanical line art with a muted-plum sunburst and sage branch" width="100%">
 </p>
 
-<p align="center">
-  B.Tech student at <a href="https://nsut.ac.in/">NSUT</a>, specialising in Artificial Intelligence.
-</p>
+# Kavni
 
-<p align="center">
-  I like exploring how systems work, building useful tools, and making information feel clear. I’m learning as I go, and I enjoy the thoughtful details along the way.
-</p>
+**Third-year B.Tech CSE student · Artificial Intelligence · NSUT**
 
-<p align="center">
-  <a href="https://github.com/kavni-29">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/kavni-ranpara-b342a9343/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://instagram.com/kavni29">Instagram</a>
-</p>
+I like getting curious about what happens beneath the interface: how packets move, how data takes shape, and how a useful tool can make a complicated task clearer. I’m also fond of visual design and journalling.
+
+[GitHub](https://github.com/kavni-29) · [LinkedIn](https://www.linkedin.com/in/kavni-ranpara-b342a9343/) · [Instagram](https://instagram.com/kavni29)
 
 ---
 
-### What I’m drawn to
+### Selected work
 
-Systems programming, practical problem-solving, and tools that make everyday tasks a little easier.
+#### 01 · [NetScope](https://github.com/kavni-29/netscope)
 
-### A little beyond code
+A Python desktop and command-line tool for analysing saved PCAP/PCAPNG captures, summarising network flows, and flagging unusual traffic with explainable rules. It can also monitor a live interface when the capture backend is available, and export reports.
 
-I enjoy designing clean visuals on Canva and journalling to reflect and make room for new ideas.
+*Python · Scapy · Tkinter · Matplotlib · NumPy*
 
-<p align="center"><sub>Learning with curiosity; making things with care. &nbsp;✳</sub></p>
+#### 02 · [UsabilityHub Clone](https://github.com/kavni-29/USABILITY-HUB-CLONE)
+
+A user research app for creating and sharing studies, collecting participant responses, and reviewing results in charts or CSV exports.
+
+*Python · Flask · SQLAlchemy · HTML · CSS*
+
+### Tools in my projects
+
+- **Language:** Python
+- **Web:** Flask, HTML, CSS
+- **Analysis:** Scapy, Matplotlib, NumPy
+- **Interface & data:** Tkinter, SQLAlchemy
+
+<sub>NetScope and UsabilityHub are personal projects; their repositories include setup notes and limitations.</sub>
+
+---
+
+*Away from the code, I make clean visuals on Canva and keep a journal for stray thoughts and new ideas.*
